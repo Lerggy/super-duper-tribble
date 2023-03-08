@@ -1,13 +1,13 @@
 Credits: Lerggy (aka. God, our lord and savior) for finding the exploit
 Credits: Lerggy (aka. God, our lord and savior) for being the first to find it 12 years ago
-Credits: Lerggy (aka. God, our lord and savior) for beating the rest of you retards too it
+Credits: Lerggy (aka. God, our lord and savior) for beating the rest of you retards to it
 
 This is proof that anything can be done even if you are a retard.
 
 Contact Info:
 Discord: Lerggy#0477
 
-For Latest BO3 RCE Exploits Follow my InstaGram: LERGGYMADEUHISBITCH
+For Latest BO3 RCE Exploits Follow my InstaGram: LERGGYSTOLEURSHIT
 
 
 if (ImGui::Selectable("Rickroll"))
